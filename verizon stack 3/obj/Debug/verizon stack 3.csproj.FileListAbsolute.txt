@@ -1,0 +1,6 @@
+c:\users\pc\source\repos\verizon stack 2\verizon stack 3\obj\Debug\verizon stack 3.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\verizon stack 2\verizon stack 3\bin\Debug\verizon stack 3.exe.config
+c:\users\pc\source\repos\verizon stack 2\verizon stack 3\bin\Debug\verizon stack 3.exe
+c:\users\pc\source\repos\verizon stack 2\verizon stack 3\bin\Debug\verizon stack 3.pdb
+c:\users\pc\source\repos\verizon stack 2\verizon stack 3\obj\Debug\verizon stack 3.exe
+c:\users\pc\source\repos\verizon stack 2\verizon stack 3\obj\Debug\verizon stack 3.pdb
